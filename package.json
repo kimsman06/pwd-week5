@@ -2,10 +2,10 @@
   "name": "pwd-week5",
   "version": "1.0.0",
   "private": true,
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js",
-    "start": "node server.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js",
     "test": "jest --runInBand",
     "test:watch": "jest --watch --runInBand"
   },
